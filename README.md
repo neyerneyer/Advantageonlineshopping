@@ -6,9 +6,9 @@ La automatización se realizó para la pagina [AdvantageDemo](https://www.advant
 
 En este proyecto podras visualizar 2 carpetas:
 
-```AutomationAdvantageOnlineShopping``` donde esta alojada la automatización.
+```AutomationAdvantageOnlineShopping``` donde está alojada la automatización
 
-```DocumentosDePruebas``` donde esta alojada la documentacion del plan de pruebas, además la collección de postman que comprende el segundo punto de la prueba.
+```DocumentosDePruebas``` donde está alojada la documentación del plan de pruebas, los bugs, además la colección de postman que comprende el segundo punto de la prueba y la evidencia de la ejecución de la automatización.
 
 
 ## Pre-requisitos 📋
